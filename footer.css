@@ -1,0 +1,51 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+
+.footerpart{
+	width:100%;
+	height:auto;
+	background-image:url('steping stone1.jpg');
+	margin-top:30px;
+}
+
+.contentoffooter{
+	height:100%;
+}
+.contentsoffooter h3{
+   font-color:blue;
+}
+.iconsoffooter{
+	height:100%;
+}
+
+.iconsoffooter ul{
+	list-style:none;
+	margin-top:120px;
+}
+.iconsoffooter ul li{
+	float:left;
+	margin-left:40px;
+	font-size:50px;
+	font-family: 'Oswald', sans-serif;
+	}
+
+
+
+
+
+
+
+
+
+
+
+	@media only screen and (max-width: 592px){
+	
+	.footerpart{
+		width:100%;
+	}
+
+}
